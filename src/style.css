@@ -1,0 +1,117 @@
+
+
+input{
+    padding: 2px 85px 2px 20px;
+}
+
+
+
+div.top-city span{
+    margin-right: 30px;
+
+}
+
+div .row{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+
+.container{
+    border: 1px solid #dadde1;
+    padding:50px;
+    margin: 40px auto;
+    border-radius: 30px;
+    max-width: 800px;
+    background-color: rgb(180, 143, 215);
+  }
+
+
+.top-city{
+    margin-top: 50px;
+    margin-left: 90px;
+    color: rgba(198, 122, 211, 0.63);
+    font-weight: 900px;
+}
+
+.search-container{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.search-box{
+    margin-right: 40px;
+}
+
+.findcity, 
+.location{
+    margin-left: 30px;
+    padding: 4px 20px;
+    background-color: rgb(103, 14, 70);
+    text-align: center;
+    border-style: none;
+    border-radius: 5px;
+}
+
+
+
+.current-city{
+    line-height: 0.75;
+}
+
+.current-temperature{
+    color: rgb(13, 13, 14);
+    text-align: right;
+    font-size: 36px;
+    
+}
+
+.link-degree{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.current-situation{
+    text-align: left;
+}
+
+
+.icon-description{
+    text-align: center;
+}
+
+.icon-img{
+    align-content:center ;
+
+}
+
+.col{
+    font-weight: bold;
+}
+
+.icon-style{
+    margin-bottom: 30px;
+
+}
+
+
+.icon-party-cloudy{
+    margin-top: -10px;
+}
+
+.sentence{
+    font-size: 26px;
+    color: blanchedalmond;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.footer{
+    text-align: center;
+}
+
+
+
+
+
+
